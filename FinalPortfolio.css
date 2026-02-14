@@ -126,5 +126,5 @@ body {
 .container1 {
     position: relative;
     z-index: 2;
-    color: blue;
+    color: rgb(255, 0, 0);
 }
